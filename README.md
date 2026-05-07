@@ -15,3 +15,13 @@ History is not saved |
 Uses IGU google by default so search history stays seperate | 
 Account logins stay seperate | 
 Your favorites never leave your device
+
+# Networkist
+Networking tool collection | 
+Curl | 
+Curl to file | 
+IP | 
+Spec scraper | 
+VPN | 
+WiFi+Bluetooth controls | 
+SSH
