@@ -25,3 +25,15 @@ Spec scraper |
 VPN | 
 WiFi+Bluetooth controls | 
 SSH
+
+# Power
+A better power menu with Toggling LPM, Lock, Restart, and Shut down
+
+# TxEdit
+A raw text editor for files
+
+# SysMonitor
+Display basic system info
+
+# DatManage
+Encode/decode base64 and hash data
